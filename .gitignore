@@ -1,0 +1,38 @@
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# Reportes e informes generados (Carpeta de salida)
+datos_salida/
+*.pdf
+
+# Configuraciones de editores de código e IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Archivos de sistema operacionales
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
