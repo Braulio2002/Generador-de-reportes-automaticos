@@ -19,7 +19,8 @@ share/
 pyvenv.cfg
 
 # Reportes e informes generados (Carpeta de salida)
-datos_salida/
+datos_salida/*
+!datos_salida/.gitkeep
 *.pdf
 
 # Configuraciones de editores de código e IDEs
